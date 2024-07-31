@@ -7,7 +7,7 @@ let items = ["WakeUp", "Do Exercise", "Eat"];
 app.set('view engine', 'ejs');
 app.set('views', path.join(__dirname, 'views'));
 app.use(bodyParser.urlencoded({ extended: true }));
-app.use(express.static(path.join(__dirname+ 'public')));
+app.use(express.static(path.join(__dirname, 'public')));
 
 app.get("/", function (req, res) {
     let today = new Date();
