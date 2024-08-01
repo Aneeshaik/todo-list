@@ -27,3 +27,5 @@ npm start
 ```
 **5. Open Your Browser**
 Navigate to ```http://localhost:3000``` to view the application.
+## Contributing
+Feel free to submit issues or pull requests if you would like to contribute to this project.
