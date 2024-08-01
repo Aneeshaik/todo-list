@@ -13,19 +13,15 @@ This project is a simple To-Do List application built using EJS, Node.js, and CS
 git clone [repository URL]
 cd [project-folder]
 ```
-**2. Navigate to the Project Directory**
-```bash
-cd your-repo-name
-```
-**3. Install Dependencies**
+**2. Install Dependencies**
 ```bash
 npm install
 ```
-**4. Run the Application**
+**3. Run the Application**
 ```bash
 npm start
 ```
-**5. Open Your Browser**
+**4. Open Your Browser**
 Navigate to ```http://localhost:3000``` to view the application.
 ## Contributing
 Feel free to submit issues or pull requests if you would like to contribute to this project.
