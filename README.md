@@ -1,5 +1,5 @@
 # To-Do List Application
-This project is a simple To-Do List application built using EJS, Node.js, and CSS for styling. The application allows users to manage their tasks with functionalities to add, remove, and mark tasks as completed.
+This project is a simple To-Do List application built using EJS, Node.js, and CSS for styling. The application allows users to manage their tasks with functionalities to add and mark tasks as completed.
 ## Features
 * **Add Tasks:** Users can add new tasks to their to-do lists.
 * **Mark as Completed:** Users can mark tasks as completed.
